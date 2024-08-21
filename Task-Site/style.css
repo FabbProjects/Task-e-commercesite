@@ -1,0 +1,77 @@
+.c-item{
+height: 500px;
+padding-left: 90px;
+padding-right: 90px;
+padding-top: 30px;
+}
+.c-img{
+height: 100%;
+}
+.card img{
+    width: 100px;
+    height: 100px;
+}
+.card a{
+    text-align: center;
+}
+.container {
+    background-color: orange;
+
+}
+.footer{
+    margin-top: 10px;
+    background-color: orange;
+    padding: 20px;
+    padding-bottom: 3%;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav th {
+    color: azure;
+}
+
+.navbar th:hover {
+    text-decoration: underline;
+}
+
+.nav2 {
+    display: flex;
+    justify-content:space-evenly;
+}
+
+.nav2 th {
+    color: azure;
+}
+
+.navbar2 th:hover {
+    text-decoration:underline;
+}
+
+.content {
+    justify-items: center;
+    padding: 20px;
+    background-color: antiquewhite;
+
+}
+
+.custom-card {
+    width: 300px;
+}
+.footstyle td{
+    color: white;
+}
+.base{
+    background-color: antiquewhite;  
+}
+
+.base td{
+    color: white;
+    
+}
+.base table{
+    justify-items: center;
+}
